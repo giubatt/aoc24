@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "typescript": "^5.7.2"
+  },
+  "name": "aoc24",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
